@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahartich but we can ditch the formalities, just call me Sahar.
+- 👋 Hi, I’m @sahartich (my first name is Sahar).
 - I'm an avid 23-year-old autodidact, data enthusiast and history student (with minor in statistics) from Israel.
 - 👀 Currently looking to make my break into the exciting field of data science.
 - I enjoy, among other things, to read books, play video-games and chess, swim, and discover new music.
