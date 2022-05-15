@@ -4,7 +4,7 @@
 - 👀 Currently looking to make my break into the exciting field of data science.
 - I enjoy, among other things, to read books, play video-games and chess, swim, and discover new music.
 - Known for having a soft spot for cute animals and clean data.
-- 🌱 Currently expanding my knowledge in SQL & Python, and learning R, Tableau, Pandas Matplotlib, Numpy and soon scikit-learn.
+- 🌱 Currently expanding my current knowledge of SQL & Python, and learning R, Tableau, Pandas, Matplotlib, Numpy; and soon, scikit-learn.
 - 📫 pm
 
 <!---
